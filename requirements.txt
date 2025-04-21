@@ -1,0 +1,10 @@
+sentence-transformers
+openpyxl
+PyMuPDF
+pymupdf4llm
+llama-index
+langchain-core
+langchain
+langchain-community
+faiss-cpu
+streamlit
